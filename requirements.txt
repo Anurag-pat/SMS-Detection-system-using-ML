@@ -1,3 +1,4 @@
 nltk
-vectorizer.pkl
-model.pkl
+scikit-learn
+numpy
+scipy
