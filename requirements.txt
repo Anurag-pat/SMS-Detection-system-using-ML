@@ -1,1 +1,3 @@
 nltk
+vectorizer.pkl
+model.pkl
